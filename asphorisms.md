@@ -1,6 +1,6 @@
 Asphorisms 1.0.1
 ---------------------------------
-##Giving you the doubt to drive self-improvement
+## Giving you the doubt to drive self-improvement
 
 
 ---------------------------------
@@ -13,13 +13,24 @@ Ask better questions
 
 No teachers without books, no books without teachers
 
-Freedom means free time. Anyone who tells you different wants you to be their slave
+Freedom means free time. Anyone who tells you different wants something from you
 
-Work is hard when it dehumanizes you
+Any work that dehumanizes you is hard work
 
-The helping matrix are the conditions that form the four kinds of helping
+### The Helping Matrix
 
-| What you are doing | Its effect on the situation | 
-| -------------------| --------------------------- |
-| helping            | helpful                     |
-| not-helping        | not helpful                 |
+The Helping Matrix allows you to locate how your efforts are manifesting in the world. Are you helping, but not helpful? Maybe you are Helping and Helpful. Good job. Don't underrate the power of Not Helping Helpful.
+
+|                    | Helpful | Not Helpful | 
+| -------------------| --------|------------ |
+| Helping            |         |             |
+| Not Helping        |         |             |
+
+### The Functionality Matrix
+
+The Functionality Matrix allows you to locate what type of system, project, or relationship you are stuck in. Is it Dysfunctional yet Functioning? Or perhaps it is shiny, Functional, and totally Not Functioning. Good luck, sucker.
+
+|                    | Functioning | Not Functioning | 
+| -------------------| --------|------------ |
+| Functional            |         |             |
+| Dysfunctional        |         |             |
